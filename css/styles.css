@@ -339,7 +339,7 @@ h6 {
 #cube {
   position: relative;
   width: 200px;
-  margin: 0 auto;
+  margin: 50px auto;
   -webkit-transform-style: preserve-3d;
   -moz-transform-style: preserve-3d;
   -ms-transform-style: preserve-3d;
